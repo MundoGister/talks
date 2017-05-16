@@ -3,7 +3,7 @@ Raúl Jiménez ([@hhkaos](https://twitter.com/hhkaos)) <br>
 Carlos Herrera ([@MundoGister](https://twitter.com/MundoGister))
 
 ---
-### ¿Qué es Dojo Toolkit?
+## ¿Qué es Dojo Toolkit?
 
 ---
 
