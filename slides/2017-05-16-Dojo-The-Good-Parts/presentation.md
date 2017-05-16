@@ -1,5 +1,5 @@
 ## Dojo: The Good Parts
-Raúl Jiménez ([@hhkaos](https://twitter.com/hhkaos))
+Raúl Jiménez ([@hhkaos](https://twitter.com/hhkaos)) <br>
 Carlos Herrera ([@MundoGister](https://twitter.com/MundoGister))
 
 ---
@@ -150,10 +150,11 @@ var dojoConfig = { parseOnLoad: true }
 
 ---
 
-```
-![Layouts](imgs/layoutBlock.png)[https://dojotoolkit.org/reference-guide/1.10/_images/layoutBlock.png]
+#### Layout
 
-```
+<img src="https://dojotoolkit.org/reference-guide/1.10/_images/layoutBlock.png">
+
+
 ---
 
 ### Forms
